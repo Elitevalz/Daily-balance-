@@ -1,0 +1,6 @@
+{
+  "name": "DailyBalance",
+  "description": "Shop credit and cash tracker for small provision stores, kiosks, and POS agents with quick sales, customer debt book, WhatsApp reminders, float tracking, and end-of-day reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
